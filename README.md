@@ -1,3 +1,3 @@
-# My Awesome Book
+# 树莓派搞机日常
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+近期入手了一台树莓派3B,也是配置了一番,甚是喜爱,遂写成笔记的样式来记录.
